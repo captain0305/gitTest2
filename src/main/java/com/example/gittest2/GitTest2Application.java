@@ -8,7 +8,7 @@ public class GitTest2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTest2Application.class, args);
-
+		System.out.println("hot-fix first");
 	}
 
 }
