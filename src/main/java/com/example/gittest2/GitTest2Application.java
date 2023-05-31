@@ -11,6 +11,7 @@ public class GitTest2Application {
 		System.out.println("main fist commit");
 		System.out.println("hot-fix first");
 		System.out.println("push test");
+		System.out.println("pull test");
 	}
 
 }
