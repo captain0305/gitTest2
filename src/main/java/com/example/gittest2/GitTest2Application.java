@@ -10,6 +10,7 @@ public class GitTest2Application {
 		SpringApplication.run(GitTest2Application.class, args);
 		System.out.println("main fist commit");
 		System.out.println("hot-fix first");
+		System.out.println("push test");
 	}
 
 }
